@@ -1,0 +1,15 @@
+.primary-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 30px;
+  background-color: rgba(215, 215, 215, 0.686);
+}
+nav a{
+  color: rgba(93, 142, 211, 0.686);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  letter-spacing: 2px;
+  line-height: 20px;
+  padding: 10px;
+}
